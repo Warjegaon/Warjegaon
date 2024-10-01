@@ -1,0 +1,87 @@
+body{
+  margin: 0;
+  padding: 40px;
+}
+
+h1{
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h2{
+  color: teal;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+figure{
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption,#date {
+  font-size: 14px;
+  color: gray;
+  margin-top: 2px;
+}
+
+figcaption span{
+  text-transform: uppercase;
+}
+
+p{
+  font-size: 20px;
+  margin-top: 30px;
+  line-height: 1.6;
+}
+
+#article-end{
+  color: maroon;
+  font-size: 15px;
+}
+
+#aHead{
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+
+contact{
+  margin-top: 30px;
+  font-size: 14px;
+  color: teal;
+}
+contact a:link{
+  
+  color: teal;
+  text-decoration: none;
+}
