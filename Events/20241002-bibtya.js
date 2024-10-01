@@ -4,7 +4,7 @@ data.date="2 Oct 2024 Pune";
 
 data.header="भव्य मिरवणूक सोहळा ▪ ▪ ▪";
 
-data.img="20241001-bibtya.png";
+data.img="20241002-bibtya.png";
 
 data.caption="वारजे गावचा बैलपोळा";
 
