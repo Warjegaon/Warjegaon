@@ -16,7 +16,7 @@ data.article=`
 
 मिरवणूकीचे प्रमुख आकर्षण : MK Lights Pune मार्फत लेझर शो आणि संगीत मैफल (डीजे) आयोजित केलेला आहे.
 
-<iframe width="800" hight="400"
+<iframe width="1000" hight="800"
 src="https://www.youtube.com/embed/wszHNgiicIs">
 </iframe>
 
