@@ -74,7 +74,6 @@ a:active {
   color: blue;
 }
 
-
 contact{
   margin-top: 30px;
   font-size: 14px;
@@ -84,4 +83,10 @@ contact a:link{
   
   color: teal;
   text-decoration: none;
+}
+
+
+iframe{
+width:90%;
+margin: 30px 0px;
 }
