@@ -92,6 +92,7 @@ p.innerHTML = text[i];
 if(i === text.length-1) p.appendChild(artspa);
 }
 
+ 
 artspa.innerHTML = '■ ■ ■';
 artspa.id = 'article-end';
  
