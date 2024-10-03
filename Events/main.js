@@ -93,7 +93,7 @@ if(i === text.length-1) p.appendChild(artspa);
 }
 
  
-artspa.innerHTML = '■ ■ ■';
+artspa.innerHTML = '';
 artspa.id = 'article-end';
  
 articl.appendChild(contac);
