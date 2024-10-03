@@ -16,12 +16,11 @@ data.article=`
 
 मिरवणूकीचे प्रमुख आकर्षण : MK Lights Pune मार्फत लेझर शो आणि संगीत मैफल (डीजे) आयोजित केलेला आहे.
 
-<iframe width="300"
+<iframe width="400 px" hight="300 px"
 src="https://www.youtube.com/embed/wszHNgiicIs">
 </iframe>
 
 `;
-
 
 var ext ='अधिक माहितीकरीता प्रतिक साबळे, संदेश चौधरी किंवा मकरंद यादव यांचेशी संपर्क साधावा.';
 
