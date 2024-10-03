@@ -86,10 +86,10 @@ contact a:link{
 }
 
 iframe{
-width:700px;
-height:400px;
+width:800px;
+height:500px;
 margin:30px auto;
 padding: 20px;
-border: 1px solid gray;
+border: 2px solid gray;
 display:block;
 }
